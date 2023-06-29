@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>Project Name</b></h3>
+  <h3><b>Leaderboard</b></h3>
 
 </div>
 
@@ -30,7 +30,7 @@
 # 📖 Project Name<a name="about-project"></a>
 
 
-Add description long.
+This project is a Leaderboard that stores inputed scores, and consumes an API to bring the functionallity.
 
 ## 🛠 Built With Love and Passion<a name="built-with"></a>
 
@@ -59,16 +59,16 @@ Add description long.
 
 ### Key Features <a name="key-features"></a>
 
-add key 1
-add key 2
+Basic HTML Set up, Webpack and Linters.
+Input Form for Name and Scores to be posted on the list.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 - <a href="https://cancelei.github.io/Capstone-M1-Event-Page/dist/index.html">Link</a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -132,8 +132,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-add item 1
-add item 2
+Add API integration
+Add Local Storage and Functions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,10 +150,7 @@ N/A
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Original design idea by Cindy Shin in Behance.<a href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015.">BEHANCE</a>
-
-Icons by Surang (<a href="https://www.flaticon.com/br/icones-gratis/agricultura-e-jardinagem" title="agricultura e jardinagem ícones">Agricultura e jardinagem ícones criados por surang - Flaticon</a>)
-
+Microverse for beeing a path of constant learnings for me.
 
 ## 📝 License <a name="license"></a>
 
