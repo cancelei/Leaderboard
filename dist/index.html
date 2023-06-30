@@ -1,1 +1,36 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Leaderboard App</title><script defer="defer" src="main.js"></script></head><body><h1>Leaderboard</h1><section class="recentscoresandinputparent"><sub class="recentscoresparent"><h2>Recent Scores</h2><button>Refresh</button><ul><li>Name 1: 300</li><li>Name 2: 200</li><li>Name 3: 100</li><li>Name 4: 700</li><li>Name 5: 300</li><li>Name 6: 200</li><li>Name 7: 100</li><li>Name 8: 700</li></ul></sub><sub class="scoresparent"><h2>Add your Score</h2><input placeholder="Name"/> <input type="number" placeholder="Score"/> <button type="submit">Submit</button></sub></section></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard App</title>
+<script defer src="main.js"></script></head>
+<body>
+
+    <h1>Leaderboard</h1>
+
+    <section class="recentscoresandinputparent">
+        <sub class="recentscoresparent">
+            <div class="recentscoretitleparent">
+                <h2>Recent Scores</h2>
+                <button type="submit">Refresh</button>
+            </div>
+            
+            <ul id="list">
+
+            </ul>
+
+        </sub>
+
+        <sub class="scoresparent">
+            <h2>Add your Score</h2>
+
+            <input id="playername" type="text" placeholder="Name" />
+            <input id="playerscore" type="number" placeholder="Score" />
+
+            <button id="scoresubmit" type="submit">Submit</button>
+        </sub>
+
+    </section>
+</body>
+</html>
