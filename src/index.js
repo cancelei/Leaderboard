@@ -28,7 +28,7 @@ const postScores = async (name, score) => {
   });
   if (response.ok) {
     getScores();
-  } 
+  }
   const data = await response.json();
   return data;
 };
