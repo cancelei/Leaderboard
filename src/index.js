@@ -32,9 +32,7 @@ async function postScores(name, score) {
   });
   if (response.ok) {
     getScores();
-  } else {
-    // console.log('Error');
-  }
+  } else {}
   const data = await response.json();
   return data;
 }
