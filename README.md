@@ -2,7 +2,6 @@
 
 <div align="center">
   <h3><b>Leaderboard</b></h3>
-
 </div>
 
 # 📗 Table of Contents
@@ -59,8 +58,8 @@ This project is a Leaderboard that stores inputed scores, and consumes an API to
 
 ### Key Features <a name="key-features"></a>
 
-Basic HTML Set up, Webpack and Linters.
-Input Form for Name and Scores to be posted on the list.
+Complete APP with improved Styling.
+InputFields to help the user to interact with the Back-end.
 Information Exchange with the Leaderboard API to Post, get and retrieve information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,8 +132,8 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Improved Styling
-More functionality.
+  - Further Improved Styling.
+  - More functionality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
